@@ -1,0 +1,50 @@
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 23px;
+    margin-left: 20px;
+
+}
+a:hover{
+    background-color: rgb(46, 46, 46);
+    border: 4px double white;
+}
+#list{
+    background-color: rgb(41, 41, 41);
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    margin: -15px;
+    margin-right: -10px;
+}
+body{
+    background-color: rgb(107, 107, 107);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+}
+#card1{
+    background-color:rgb(75, 75, 75);
+    width: 300px;
+    height: 200px;
+    margin-top: 80px;
+    margin-bottom: 60px;
+    border-radius: 30px;
+}
+#card1:hover{
+    box-shadow:7px 7px 70px rgb(0, 0, 0);
+    width: 320px;
+    height: 240px;
+}
+img{
+    width: 300px;
+    height: 330px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border-radius: 40px;
+    border: 5px dotted;
+}
